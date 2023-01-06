@@ -10,6 +10,11 @@ math: false
 toc: false
 ---
 
+1. meta-learning: decision process on what knowledge you need to know 
+2. what exactly is the prime bang for your buck in terms of small model (survey paper)
+3. 
+
+
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
 <!--more-->
 
